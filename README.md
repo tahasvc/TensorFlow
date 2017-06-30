@@ -1,2 +1,2 @@
-# TensorFlow ve Python
+# TensorFlow ile Sayi Tespiti
 merhabaa
